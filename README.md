@@ -1,1 +1,1 @@
-# learn_data_science
+# 30 Data Science Learning Challenge
